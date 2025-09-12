@@ -1,6 +1,6 @@
-# EXP NO : 02 Control of Relay Using IoT controller
 ## NAME : JANANI S
 ## REG NO : 212223230086
+# EXP NO : 02 Control of Relay Using IoT controller
 ##  AIM:
 To control the Relay using Arduino controller
 

@@ -58,8 +58,11 @@ void loop() {
 <img width="960" height="673" alt="image" src="https://github.com/user-attachments/assets/9154998e-1028-45f7-ae30-5549144d5083" />
 
 ## OUTPUT:
-<img width="1907" height="1017" alt="image" src="https://github.com/user-attachments/assets/cb242702-ec19-4955-a05d-43141065564a" />
-<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/0306339b-5d4c-43ba-a8aa-1a00d6708b46" />
+## OFF:
+<img width="1144" height="773" alt="Screenshot 2025-09-18 082850" src="https://github.com/user-attachments/assets/b3779bcc-79f4-4f01-b3aa-686a5a7e394a" />
+
+## ON:
+<img width="1127" height="762" alt="Screenshot 2025-09-18 082822" src="https://github.com/user-attachments/assets/838b2b5c-0adf-4d14-9957-b7dbffd6d7e8" />
 
 ## RESULT:
 
